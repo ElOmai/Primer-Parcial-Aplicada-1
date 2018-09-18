@@ -1,0 +1,16 @@
+C:\Users\luiso\source\repos\Primer Parcial\Primer Parcial\bin\Debug\Primer Parcial.exe.config
+C:\Users\luiso\source\repos\Primer Parcial\Primer Parcial\bin\Debug\Primer Parcial.exe
+C:\Users\luiso\source\repos\Primer Parcial\Primer Parcial\bin\Debug\Primer Parcial.pdb
+C:\Users\luiso\source\repos\Primer Parcial\Primer Parcial\bin\Debug\EntityFramework.dll
+C:\Users\luiso\source\repos\Primer Parcial\Primer Parcial\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\luiso\source\repos\Primer Parcial\Primer Parcial\bin\Debug\EntityFramework.xml
+C:\Users\luiso\source\repos\Primer Parcial\Primer Parcial\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\luiso\source\repos\Primer Parcial\Primer Parcial\obj\Debug\Primer Parcial.csprojAssemblyReference.cache
+C:\Users\luiso\source\repos\Primer Parcial\Primer Parcial\obj\Debug\Primer_Parcial.MainForm.resources
+C:\Users\luiso\source\repos\Primer Parcial\Primer Parcial\obj\Debug\Primer_Parcial.Properties.Resources.resources
+C:\Users\luiso\source\repos\Primer Parcial\Primer Parcial\obj\Debug\Primer Parcial.csproj.GenerateResource.cache
+C:\Users\luiso\source\repos\Primer Parcial\Primer Parcial\obj\Debug\Primer Parcial.csproj.CoreCompileInputs.cache
+C:\Users\luiso\source\repos\Primer Parcial\Primer Parcial\obj\Debug\Primer Parcial.csproj.CopyComplete
+C:\Users\luiso\source\repos\Primer Parcial\Primer Parcial\obj\Debug\Primer Parcial.exe
+C:\Users\luiso\source\repos\Primer Parcial\Primer Parcial\obj\Debug\Primer Parcial.pdb
+C:\Users\luiso\source\repos\Primer Parcial\Primer Parcial\obj\Debug\Primer_Parcial.UI.NewFolder1.RVendedor.resources
