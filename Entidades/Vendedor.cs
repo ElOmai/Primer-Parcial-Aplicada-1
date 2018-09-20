@@ -15,6 +15,7 @@ namespace Primer_Parcial.Entidades
         public decimal Sueldo { get; set; }
         public decimal Retencion { get; set; }
         public decimal PorcentajeRentencion { get; set; }
+        public DateTime FechaVendedor { get; set; }
 
         public Vendedor(int vendedorId, string nombre, decimal sueldo, decimal retencion, decimal porcentajeRentencion)
         {
@@ -23,6 +24,8 @@ namespace Primer_Parcial.Entidades
             Sueldo = sueldo;
             Retencion = retencion;
             PorcentajeRentencion = porcentajeRentencion;
+            FechaVendedor = DateTime.Now;
+
         }
 
         public Vendedor()
@@ -32,6 +35,7 @@ namespace Primer_Parcial.Entidades
             Sueldo = 0;
             Retencion = 0;
             PorcentajeRentencion = 0;
+            FechaVendedor = DateTime.Now;
         }
     }
 }
