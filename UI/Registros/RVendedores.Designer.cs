@@ -204,6 +204,7 @@
             this.RetencionNumericUpDown.Name = "RetencionNumericUpDown";
             this.RetencionNumericUpDown.Size = new System.Drawing.Size(119, 20);
             this.RetencionNumericUpDown.TabIndex = 16;
+            this.RetencionNumericUpDown.ValueChanged += new System.EventHandler(this.RetencionNumericUpDown_ValueChanged);
             // 
             // VendedorErrorProvider
             // 

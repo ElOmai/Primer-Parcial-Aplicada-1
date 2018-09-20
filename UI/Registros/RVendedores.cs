@@ -155,5 +155,29 @@ namespace Primer_Parcial.UI.NewFolder1
                 MessageBox.Show("Eliminado");
             }
         }
+
+        private void RetencionNumericUpDown_ValueChanged(object sender, EventArgs e)
+        {
+            {
+                if (Validar())
+                {
+                    MessageBox.Show("llenar el campo vacio", "trate de guardar de nuevo",
+                        MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+                else
+                if (SueldoNumericUpDown.Value != 0 && PorcentajeRetencionNumericUpDown.Value != 0)
+                {
+                    RetencionNumericUpDown.Value = VendedoresBLL.CalculoRetencion(SueldoNumericUpDown.Value, PorcentajeRetencionNumericUpDown.Value);
+
+
+                }
+                else
+                {
+                    MessageBox.Show("algun campo no esta lleno correctamente", "trate de nuevo",
+                          MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+
+            }
+        }
     }
 }
